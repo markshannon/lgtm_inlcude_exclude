@@ -1,0 +1,6 @@
+analysis: 
+  
+  python: 
+    index: 
+      include: src/:src/test/util/
+      exclude: src/test/:src/test/util/test/
